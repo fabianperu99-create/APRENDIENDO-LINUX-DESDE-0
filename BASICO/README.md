@@ -25,7 +25,7 @@ También practiqué la organización de archivos y directorios, utilizando difer
 ![Evidencia](d.jpeg)
 
 Durante la práctica utilicé comandos como `ls`, `ls -l` y `ls -a` para observar los archivos y carpetas existentes. También utilicé `tree` para visualizar de forma organizada la estructura de los directorios.
-![Evidencia](i(2).jpeg)
+![Evidencia](o.jpeg)
 
 Además, practiqué la creación de archivos mediante `touch` y la visualización de su contenido con `cat`. También realicé ejercicios de copia de archivos utilizando el comando `cp`.
 
